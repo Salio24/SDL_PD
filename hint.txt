@@ -1,0 +1,5 @@
+C:\Users\salio\VSCode\my_repo\SDL_Project
+clean && build && mygame
+
+
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\Build\vcvarsall.bat x64"
